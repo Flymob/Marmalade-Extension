@@ -1,0 +1,49 @@
+include:
+#include <s3eTypes.h>
+
+enum FlyMobInterstitialCallback
+{
+	S3E_FLYMOB_INTERSTITIAL_DID_LOAD,
+	S3E_FLYMOB_INTERSTITIAL_DID_FAIL,
+	S3E_FLYMOB_INTERSTITIAL_DID_SHOW,
+	S3E_FLYMOB_INTERSTITIAL_DID_CLICK,
+	S3E_FLYMOB_INTERSTITIAL_DID_CLOSE,
+	S3E_FLYMOB_INTERSTITIAL_DID_EXPIRE,
+	S3E_FLYMOB_INTERSTITIAL_MAX
+};
+
+enum FlyMobRewardedVideoCallback
+{
+	S3E_FLYMOB_REWARDED_VIDEO_DID_LOAD,
+	S3E_FLYMOB_REWARDED_VIDEO_DID_FAIL,
+	S3E_FLYMOB_REWARDED_VIDEO_DID_SHOW,
+	S3E_FLYMOB_REWARDED_VIDEO_DID_COMPLETE,
+	S3E_FLYMOB_REWARDED_VIDEO_DID_START,
+	S3E_FLYMOB_REWARDED_VIDEO_DID_CLOSE,
+	S3E_FLYMOB_REWARDED_VIDEO_DID_EXPIRE,
+	S3E_FLYMOB_REWARDED_VIDEO_MAX
+};
+  
+functions:
+
+void s3eFlyMobInterstitialInitialize(const int zoneID) void run_on_os_thread
+void s3eFlyMobInterstitialLoad() void run_on_os_thread
+void s3eFlyMobInterstitialShow() void run_on_os_thread
+bool s3eFlyMobInterstitialIsReady() false run_on_os_thread
+
+void s3eFlyMobRewardedVideoInitialize(const int zoneID) void run_on_os_thread
+void s3eFlyMobRewardedVideoLoad() void run_on_os_thread
+void s3eFlyMobRewardedVideoShow() void run_on_os_thread
+bool s3eFlyMobRewardedVideoIsReady() false run_on_os_thread
+
+void s3eFlyMobSDKSetDebugMode(bool isDebug) void run_on_os_thread
+bool s3eFlyMobSDKIsDebugMode() false run_on_os_thread
+
+void s3eFlyMobSDKSetCoppa(bool isCoppa) void run_on_os_thread 
+bool s3eFlyMobSDKIsCoppa() false run_on_os_thread
+
+void s3eFlyMobSDKSetDnt(bool isDnt) void run_on_os_thread
+bool s3eFlyMobSDKIsDnt() false run_on_os_thread
+
+void s3eFlyMobSDKSetTesting(bool isTesting) void run_on_os_thread
+bool s3eFlyMobSDKIsTesting() false run_on_os_thread

@@ -1,0 +1,13 @@
+#!/usr/bin/env mkb
+# Builder mkb file for the FlyMob extension on iphone
+platform IPHONE
+
+options
+{
+    lib
+    output-name="lib/iphone/libFlyMob.a"
+    output-name-debug="lib/iphone/libFlyMob_d.a"
+}
+define S3E_BUILD_EXT
+
+subproject FlyMob_build
