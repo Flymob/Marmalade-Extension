@@ -56,6 +56,9 @@ deployments
     android-external-jars="android/FlyMobSdk-1.7.0.jar"
     android-so="lib/android/libFlyMob.so"
 
+    android-extra-manifest="android/FlyMob-manifest.xml"
+    android-extra-application-manifest="android/FlyMob-application.xml"
+
     android-ext-min-sdk-version=9
     android-ext-target-sdk-version=22
 
