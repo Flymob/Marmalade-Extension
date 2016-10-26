@@ -31,6 +31,16 @@ static jmethodID g_s3eFlyMobSDKIsDnt;
 static jmethodID g_s3eFlyMobSDKSetTesting;
 static jmethodID g_s3eFlyMobSDKIsTesting;
 
+void JNICALL FlyMob_nativeCallbackInterstitial(JNIEnv* env, jobject obj, jint callbackIndex)
+{
+    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, (FlyMobInterstitialCallback)callbackIndex);
+}
+
+void JNICALL FlyMob_nativeCallbackRewardedVideo(JNIEnv* env, jobject obj, jint callbackIndex)
+{
+    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, (FlyMobRewardedVideoCallback)callbackIndex);
+}
+
 s3eResult FlyMobInit_platform()
 {
     // Get the environment from the pointer

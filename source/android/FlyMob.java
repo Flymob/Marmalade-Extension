@@ -11,6 +11,7 @@ These functions are called via JNI from native code.
  */
 
 import com.ideaworks3d.marmalade.LoaderAPI;
+import android.content.Context;
 
 import com.flymob.sdk.common.ads.FailResponse;
 import com.flymob.sdk.common.ads.interstitial.FlyMobInterstitial;
@@ -27,39 +28,65 @@ class FlyMob {
     FlyMobInterstitial mFlyMobInterstitial;
     FlyMobRewardedVideo mFlyMobRewardedVideo;
 
+    public native void nativeCallbackInterstitial(int callbackIndex);
+    public native void nativeCallbackRewardedVideo(int callbackIndex);
+
+    private enum FlyMobInterstitialCallback
+    {
+        S3E_FLYMOB_INTERSTITIAL_DID_LOAD,
+        S3E_FLYMOB_INTERSTITIAL_DID_FAIL,
+        S3E_FLYMOB_INTERSTITIAL_DID_SHOW,
+        S3E_FLYMOB_INTERSTITIAL_DID_CLICK,
+        S3E_FLYMOB_INTERSTITIAL_DID_CLOSE,
+        S3E_FLYMOB_INTERSTITIAL_DID_EXPIRE,
+        S3E_FLYMOB_INTERSTITIAL_MAX
+    };
+
+    private enum FlyMobRewardedVideoCallback
+    {
+        S3E_FLYMOB_REWARDED_VIDEO_DID_LOAD,
+        S3E_FLYMOB_REWARDED_VIDEO_DID_FAIL,
+        S3E_FLYMOB_REWARDED_VIDEO_DID_SHOW,
+        S3E_FLYMOB_REWARDED_VIDEO_DID_COMPLETE,
+        S3E_FLYMOB_REWARDED_VIDEO_DID_START,
+        S3E_FLYMOB_REWARDED_VIDEO_DID_CLOSE,
+        S3E_FLYMOB_REWARDED_VIDEO_DID_EXPIRE,
+        S3E_FLYMOB_REWARDED_VIDEO_MAX
+    };
+
     public void s3eFlyMobInterstitialInitialize(int zoneID) {
         Context context = (Context) LoaderActivity.m_Activity;
-        if (myContext != null) {
+        if (context != null) {
             mFlyMobInterstitial = new FlyMobInterstitial(context, zoneID);
             mFlyMobInterstitial.addListener(new IFlyMobInterstitialListener() {
                 @Override
                 public void loaded(FlyMobInterstitial interstitial) {
-                    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, S3E_FLYMOB_INTERSTITIAL_DID_LOAD);
+                    nativeCallbackInterstitial(FlyMobInterstitialCallback.S3E_FLYMOB_INTERSTITIAL_DID_LOAD.ordinal());
                 }
 
                 @Override
                 public void failed(FlyMobInterstitial interstitial, FailResponse response) {
-                    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, S3E_FLYMOB_INTERSTITIAL_DID_FAIL);
+                    nativeCallbackInterstitial(FlyMobInterstitialCallback.S3E_FLYMOB_INTERSTITIAL_DID_FAIL.ordinal());
                 }
 
                 @Override
                 public void shown(FlyMobInterstitial interstitial) {
-                    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, S3E_FLYMOB_INTERSTITIAL_DID_SHOW);
+                    nativeCallbackInterstitial(FlyMobInterstitialCallback.S3E_FLYMOB_INTERSTITIAL_DID_SHOW.ordinal());
                 }
 
                 @Override
                 public void clicked(FlyMobInterstitial interstitial) {
-                    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, S3E_FLYMOB_INTERSTITIAL_DID_CLICK);
+                    nativeCallbackInterstitial(FlyMobInterstitialCallback.S3E_FLYMOB_INTERSTITIAL_DID_CLICK.ordinal());
                 }
 
                 @Override
                 public void closed(FlyMobInterstitial interstitial) {
-                    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, S3E_FLYMOB_INTERSTITIAL_DID_CLOSE);
+                    nativeCallbackInterstitial(FlyMobInterstitialCallback.S3E_FLYMOB_INTERSTITIAL_DID_CLOSE.ordinal());
                 }
 
                 @Override
                 public void expired(FlyMobInterstitial interstitial) {
-                    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, S3E_FLYMOB_INTERSTITIAL_DID_EXPIRE);
+                    nativeCallbackInterstitial(FlyMobInterstitialCallback.S3E_FLYMOB_INTERSTITIAL_DID_EXPIRE.ordinal());
                 }
             });
         }
@@ -86,43 +113,43 @@ class FlyMob {
 
     public void s3eFlyMobRewardedVideoInitialize(int zoneID) {
         Context context = (Context) LoaderActivity.m_Activity;
-        if (myContext != null) {
+        if (context != null) {
             mFlyMobRewardedVideo = new FlyMobRewardedVideo(context, zoneID);
 
             mFlyMobRewardedVideo.addListener(new IFlyMobRewardedVideoListener() {
                 @Override
                 public void loaded(FlyMobRewardedVideo video) {
-                    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, S3E_FLYMOB_REWARDED_VIDEO_DID_LOAD);
+                    nativeCallbackRewardedVideo(FlyMobRewardedVideoCallback.S3E_FLYMOB_REWARDED_VIDEO_DID_LOAD.ordinal());
                 }
 
                 @Override
                 public void failed(FlyMobRewardedVideo video, FailResponse response) {
-                    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, S3E_FLYMOB_REWARDED_VIDEO_DID_FAIL);
+                    nativeCallbackRewardedVideo(FlyMobRewardedVideoCallback.S3E_FLYMOB_REWARDED_VIDEO_DID_FAIL.ordinal());
                 }
 
                 @Override
                 public void shown(FlyMobRewardedVideo video) {
-                    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, S3E_FLYMOB_REWARDED_VIDEO_DID_SHOW);
+                    nativeCallbackRewardedVideo(FlyMobRewardedVideoCallback.S3E_FLYMOB_REWARDED_VIDEO_DID_SHOW.ordinal());
                 }
 
                 @Override
                 public void closed(FlyMobRewardedVideo video) {
-                    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, S3E_FLYMOB_REWARDED_VIDEO_DID_CLOSE);
+                    nativeCallbackRewardedVideo(FlyMobRewardedVideoCallback.S3E_FLYMOB_REWARDED_VIDEO_DID_CLOSE.ordinal());
                 }
 
                 @Override
                 public void started(FlyMobRewardedVideo video) {
-                    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, S3E_FLYMOB_REWARDED_VIDEO_DID_START);
+                    nativeCallbackRewardedVideo(FlyMobRewardedVideoCallback.S3E_FLYMOB_REWARDED_VIDEO_DID_START.ordinal());
                 }
 
                 @Override
                 public void completed(FlyMobRewardedVideo video) {
-                    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, S3E_FLYMOB_REWARDED_VIDEO_DID_COMPLETE);
+                    nativeCallbackRewardedVideo(FlyMobRewardedVideoCallback.S3E_FLYMOB_REWARDED_VIDEO_DID_COMPLETE.ordinal());
                 }
 
                 @Override
                 public void expired(FlyMobRewardedVideo video) {
-                    s3eEdkCallbacksEnqueue(S3E_EXT_FLYMOB_HASH, S3E_FLYMOB_REWARDED_VIDEO_DID_EXPIRE);
+                    nativeCallbackRewardedVideo(FlyMobRewardedVideoCallback.S3E_FLYMOB_REWARDED_VIDEO_DID_EXPIRE.ordinal());
                 }
             });
         }

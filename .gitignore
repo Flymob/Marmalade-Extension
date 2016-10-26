@@ -201,3 +201,17 @@ pip-log.txt
 
 #Translations
 *.mo
+
+*.class
+
+
+.DS\_Store
+.DS_Store
+*.sw?
+**/build_temp/**
+**/resources-ram/**
+**/project_*
+**development.icf
+*build_*
+*.stamp
+mobdebug.lua
