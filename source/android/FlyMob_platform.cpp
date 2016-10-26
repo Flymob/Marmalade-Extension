@@ -120,7 +120,7 @@ s3eResult FlyMobInit_platform()
 
 
 
-    IwTrace(FLYMOB ("FlyMob init success"));
+    IwTrace(FLYMOB, ("FlyMob init success"));
     g_Obj = env->NewGlobalRef(obj);
     env->DeleteLocalRef(obj);
     env->DeleteGlobalRef(cls);

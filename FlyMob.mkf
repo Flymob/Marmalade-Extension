@@ -54,6 +54,21 @@ deployments
 if {{ not defined S3E_EXT_FLYMOB_DISABLE_ON_ANDROID and not defined S3E_EXT_FLYMOB_DISABLE}}
 deployments
 {
+    android-external-jars="Adnroid/adcolony.2.3.6.jar"
+    android-external-jars="Adnroid/applovin-sdk-6.2.4.jar"
+    android-external-jars="Adnroid/audience-network.jar"
+    android-external-jars="Adnroid/avocarrot-sdk-v.3.7.2.jar"
+    android-external-jars="Adnroid/chartboost.jar"
+    android-external-jars="Adnroid/FlyMobSdk-1.7.0.jar"
+    android-external-jars="Adnroid/google-play-services.jar"
+    android-external-jars="Adnroid/InMobi-5.3.1.jar"
+    android-external-jars="Adnroid/mopub-sdk.jar"
+    android-external-jars="Adnroid/mopub-volley-1.1.0.jar"
+    android-external-jars="Adnroid/unity-ads.jar"
+    android-external-jars="Adnroid/vungle-dagger-2.4.jar"
+    android-external-jars="Adnroid/vungle-javax.inject.jar"
+    android-external-jars="Adnroid/vungle-publisher-adaptive-id-4.0.2.jar"
+    
     android-external-jars="lib/android/FlyMob.jar"
     android-so="lib/android/libFlyMob.so"
 }
