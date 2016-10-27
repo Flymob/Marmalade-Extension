@@ -1,0 +1,526 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                              release/FlyMob_platform.os (s3eEdkThreadRunOnOS)
+/Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+                              (libplaceholderplaceholderplaceholderplaceholderplaceholder)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .group         0x0000000000000000        0x8 release/FlyMob_platform.os
+ .group         0x0000000000000000        0x8 release/FlyMob_platform.os
+ .group         0x0000000000000000        0x8 release/FlyMob_platform.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 release/FlyMob_platform.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 release/FlyMob.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 release/FlyMob_register.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+LOAD release/FlyMob_platform.os
+LOAD release/FlyMob.os
+LOAD release/FlyMob_register.os
+LOAD /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a
+LOAD /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libs3e_android.so
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/liblog.so
+LOAD /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a
+LOAD /Users/a.baskakov/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/libgnustl_static.a
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/libstdc++.so
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/libm.so
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/libc.so
+LOAD /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/libc.so
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/libdl.so
+LOAD /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+                0x00000000000000d4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x00000000000000d4       0xa0
+ *(.hash)
+ .hash          0x00000000000000d4       0xa0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x0000000000000174      0x150
+ *(.dynsym)
+ .dynsym        0x0000000000000174      0x150 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.dynstr         0x00000000000002c4      0x161
+ *(.dynstr)
+ .dynstr        0x00000000000002c4      0x161 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.gnu.version    0x0000000000000426        0x0
+ *(.gnu.version)
+ .gnu.version   0x0000000000000426        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.gnu.version_d  0x0000000000000428        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000428        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.gnu.version_r  0x0000000000000428        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000000428        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.rel.dyn        0x0000000000000428       0x98
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x0000000000000428       0x90 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.iplt)
+ .rel.iplt      0x00000000000004b8        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .rel.fini_array
+                0x00000000000004b8        0x8 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.rela.dyn
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.iplt)
+
+.rel.plt        0x00000000000004c0       0x48
+ *(.rel.plt)
+ .rel.plt       0x00000000000004c0       0x48 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt            0x0000000000000508       0x80
+ *(.plt)
+ .plt           0x0000000000000508       0x80 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.iplt           0x0000000000000588        0x0
+ *(.iplt)
+ .iplt          0x0000000000000588        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.text           0x0000000000000588     0x11cc
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ .text.exit     0x0000000000000588       0x10 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0000000000000588                __on_dlclose
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000000598       0x34 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0000000000000598                __atexit_handler_wrapper
+                0x00000000000005ac                atexit
+ .text          0x00000000000005cc      0xb84 release/FlyMob_platform.os
+                0x0000000000000684                FlyMob_nativeCallbackInterstitial(_JNIEnv*, _jobject*, int)
+                0x00000000000006bc                FlyMob_nativeCallbackRewardedVideo(_JNIEnv*, _jobject*, int)
+                0x00000000000006f4                FlyMobInit_platform()
+                0x0000000000000b94                FlyMobTerminate_platform()
+                0x0000000000000bf0                s3eFlyMobInterstitialInitialize_platform(int)
+                0x0000000000000c48                s3eFlyMobInterstitialLoad_platform()
+                0x0000000000000c98                s3eFlyMobInterstitialShow_platform()
+                0x0000000000000ce8                s3eFlyMobInterstitialIsReady_platform()
+                0x0000000000000d40                s3eFlyMobRewardedVideoInitialize_platform(int)
+                0x0000000000000d98                s3eFlyMobRewardedVideoLoad_platform()
+                0x0000000000000de8                s3eFlyMobRewardedVideoShow_platform()
+                0x0000000000000e38                s3eFlyMobRewardedVideoIsReady_platform()
+                0x0000000000000e90                s3eFlyMobSDKSetDebugMode_platform(bool)
+                0x0000000000000ee8                s3eFlyMobSDKIsDebugMode_platform()
+                0x0000000000000f40                s3eFlyMobSDKSetCoppa_platform(bool)
+                0x0000000000000f98                s3eFlyMobSDKIsCoppa_platform()
+                0x0000000000000ff0                s3eFlyMobSDKSetDnt_platform(bool)
+                0x0000000000001048                s3eFlyMobSDKIsDnt_platform()
+                0x00000000000010a0                s3eFlyMobSDKSetTesting_platform(bool)
+                0x00000000000010f8                s3eFlyMobSDKIsTesting_platform()
+ .text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x0000000000001150       0x38 release/FlyMob_platform.os
+                0x0000000000001150                _JNIEnv::NewObject(_jclass*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv17CallBooleanMethodEP8_jobjectP10_jmethodIDz
+                0x0000000000001188       0x38 release/FlyMob_platform.os
+                0x0000000000001188                _JNIEnv::CallBooleanMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv14CallVoidMethodEP8_jobjectP10_jmethodIDz
+                0x00000000000011c0       0x38 release/FlyMob_platform.os
+                0x00000000000011c0                _JNIEnv::CallVoidMethod(_jobject*, _jmethodID*, ...)
+ .text          0x00000000000011f8       0x48 release/FlyMob.os
+                0x00000000000011f8                FlyMobInit()
+                0x00000000000011fc                FlyMobTerminate()
+                0x0000000000001200                s3eFlyMobInterstitialInitialize
+                0x0000000000001204                s3eFlyMobInterstitialLoad
+                0x0000000000001208                s3eFlyMobInterstitialShow
+                0x000000000000120c                s3eFlyMobInterstitialIsReady
+                0x0000000000001210                s3eFlyMobRewardedVideoInitialize
+                0x0000000000001214                s3eFlyMobRewardedVideoLoad
+                0x0000000000001218                s3eFlyMobRewardedVideoShow
+                0x000000000000121c                s3eFlyMobRewardedVideoIsReady
+                0x0000000000001220                s3eFlyMobSDKSetDebugMode
+                0x0000000000001224                s3eFlyMobSDKIsDebugMode
+                0x0000000000001228                s3eFlyMobSDKSetCoppa
+                0x000000000000122c                s3eFlyMobSDKIsCoppa
+                0x0000000000001230                s3eFlyMobSDKSetDnt
+                0x0000000000001234                s3eFlyMobSDKIsDnt
+                0x0000000000001238                s3eFlyMobSDKSetTesting
+                0x000000000000123c                s3eFlyMobSDKIsTesting
+ .text          0x0000000000001240      0x480 release/FlyMob_register.os
+                0x00000000000013f8                FlyMobRegisterExt()
+                0x000000000000155c                RegisterExt
+ .text          0x00000000000016c0        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .text.s3eEdkErrorSetString
+                0x00000000000016c0       0x30 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                0x00000000000016c0                s3eEdkErrorSetString
+ .text.s3eEdkThreadRunOnOS
+                0x00000000000016f0       0x30 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                0x00000000000016f0                s3eEdkThreadRunOnOS
+ .text.s3eEdkThreadRunOnOSAsync
+                0x0000000000001720       0x30 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                0x0000000000001720                s3eEdkThreadRunOnOSAsync
+ .text          0x0000000000001750        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+ .text.libplaceholderplaceholderplaceholderplaceholderplaceholder
+                0x0000000000001750        0x4 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+                0x0000000000001750                libplaceholderplaceholderplaceholderplaceholderplaceholder
+ .text          0x0000000000001754        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x0000000000001754        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x0000000000001754        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x0000000000001754        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x0000000000001754        0x0 linker stubs
+
+.fini
+ *(SORT(.fini))
+                0x0000000000001754                PROVIDE (__etext, .)
+                0x0000000000001754                PROVIDE (_etext, .)
+                0x0000000000001754                PROVIDE (etext, .)
+
+.rodata         0x0000000000001754      0x1d8
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x0000000000001754      0x1d8 release/FlyMob_platform.os
+ .rodata.str1.4
+                0x000000000000192c        0x8 release/FlyMob_register.os
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000000001934                PROVIDE (__exidx_start, .)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000000000001934                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr   0x000000000000192c        0x0
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x000000000000192c        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000010000                . = ALIGN (0x10000)
+                0x0000000000010e84                . = DATA_SEGMENT_ALIGN (0x10000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+                0x0000000000010e84                . = ALIGN (0x4)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000010e84        0x4
+ *crtbegin*.o(.init_array)
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend*.o *crtend.o *crtbegin*.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000010e84        0x4 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.fini_array     0x0000000000010e88        0x8
+ *crtbegin*.o(.fini_array)
+ .fini_array    0x0000000000010e88        0x4 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend*.o *crtend.o *crtbegin*.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000010e8c        0x4 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin*.o(.ctors)
+ *(EXCLUDE_FILE(*crtend*.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin*.o(.dtors)
+ *(EXCLUDE_FILE(*crtend*.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000010e90       0xf8
+ *(.dynamic)
+ .dynamic       0x0000000000010e90       0xf8 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0000000000010e90                _DYNAMIC
+
+.got            0x0000000000010f88       0x78
+ *(.got.plt)
+ .got.plt       0x0000000000010f88       0x30 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0000000000010f88                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x0000000000010fb8        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(.got)
+ .got           0x0000000000010fb8       0x48 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(.igot)
+                0x0000000000011000                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.data           0x0000000000011000        0x4
+                0x0000000000011000                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000011000        0x4 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0000000000011000                __dso_handle
+ .data          0x0000000000011004        0x0 release/FlyMob_platform.os
+ .data          0x0000000000011004        0x0 release/FlyMob.os
+ .data          0x0000000000011004        0x0 release/FlyMob_register.os
+ .data          0x0000000000011004        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .data          0x0000000000011004        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+ .data          0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.data1
+ *(.data1)
+                0x0000000000011004                _edata = .
+                0x0000000000011004                PROVIDE (edata, .)
+                0x0000000000011004                . = .
+                0x0000000000011004                __bss_start = .
+                0x0000000000011004                __bss_start__ = .
+
+.bss            0x0000000000011004       0x44
+ *(.dynbss)
+ .dynbss        0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .bss           0x0000000000011004       0x44 release/FlyMob_platform.os
+ .bss           0x0000000000011048        0x0 release/FlyMob.os
+ .bss           0x0000000000011048        0x0 release/FlyMob_register.os
+ .bss           0x0000000000011048        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .bss           0x0000000000011048        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+ .bss           0x0000000000011048        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+ *(COMMON)
+                0x0000000000011048                . = ALIGN (0x4)
+                0x0000000000011048                _bss_end__ = .
+                0x0000000000011048                __bss_end__ = .
+                0x0000000000011048                . = ALIGN (0x4)
+                0x0000000000011048                . = SEGMENT_START ("ldata-segment", .)
+                0x0000000000011048                . = ALIGN (0x4)
+                0x0000000000011048                __end__ = .
+                0x0000000000011048                _end = .
+                0x0000000000011048                _bss_end__ = .
+                0x0000000000011048                __bss_end__ = .
+                0x0000000000011048                __end__ = .
+                0x0000000000011048                PROVIDE (end, .)
+                0x0000000000011048                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x34
+ *(.comment)
+ .comment       0x0000000000000000        0xf /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                                         0x10 (size before relaxing)
+ .comment       0x000000000000000f       0x25 release/FlyMob_platform.os
+                                         0x26 (size before relaxing)
+ .comment       0x0000000000000034       0x26 release/FlyMob.os
+ .comment       0x0000000000000034       0x26 release/FlyMob_register.os
+ .comment       0x0000000000000034       0x26 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .comment       0x0000000000000034       0x26 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+
+.ARM.attributes
+                0x0000000000000000       0x2d
+ .ARM.attributes
+                0x0000000000000000       0x2b /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .ARM.attributes
+                0x000000000000002b       0x2f release/FlyMob_platform.os
+ .ARM.attributes
+                0x000000000000005a       0x2f release/FlyMob.os
+ .ARM.attributes
+                0x0000000000000089       0x2f release/FlyMob_register.os
+ .ARM.attributes
+                0x00000000000000b8       0x2f /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .ARM.attributes
+                0x00000000000000e7       0x2f /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+ .ARM.attributes
+                0x0000000000000116       0x1d /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0x78
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x38 release/FlyMob_platform.os
+ .debug_aranges
+                0x0000000000000038       0x20 release/FlyMob.os
+ .debug_aranges
+                0x0000000000000058       0x20 release/FlyMob_register.os
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x7aac
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x70b9 release/FlyMob_platform.os
+ .debug_info    0x00000000000070b9      0x474 release/FlyMob.os
+ .debug_info    0x000000000000752d      0x57f release/FlyMob_register.os
+
+.debug_abbrev   0x0000000000000000      0x745
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x463 release/FlyMob_platform.os
+ .debug_abbrev  0x0000000000000463      0x131 release/FlyMob.os
+ .debug_abbrev  0x0000000000000594      0x1b1 release/FlyMob_register.os
+
+.debug_line     0x0000000000000000      0x881
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x579 release/FlyMob_platform.os
+ .debug_line    0x0000000000000579      0x123 release/FlyMob.os
+ .debug_line    0x000000000000069c      0x1e5 release/FlyMob_register.os
+
+.debug_frame    0x0000000000000000      0x5f4
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x324 release/FlyMob_platform.os
+ .debug_frame   0x0000000000000324      0x130 release/FlyMob.os
+ .debug_frame   0x0000000000000454      0x1a0 release/FlyMob_register.os
+
+.debug_str      0x0000000000000000     0x5588
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x5258 release/FlyMob_platform.os
+                                       0x53e1 (size before relaxing)
+ .debug_str     0x0000000000005258       0x8a release/FlyMob.os
+                                        0x91b (size before relaxing)
+ .debug_str     0x00000000000052e2      0x2a6 release/FlyMob_register.os
+                                        0x541 (size before relaxing)
+
+.debug_loc      0x0000000000000000      0xca2
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0xb00 release/FlyMob_platform.os
+ .debug_loc     0x0000000000000b00       0xc6 release/FlyMob.os
+ .debug_loc     0x0000000000000bc6       0xdc release/FlyMob_register.os
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x170
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000      0x140 release/FlyMob_platform.os
+ .debug_ranges  0x0000000000000140       0x30 release/FlyMob_register.os
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+ *(.mdebug.*)
+OUTPUT(/Users/a.baskakov/Documents/Marmalade-Extension/lib/android/libFlyMob.so elf32-littlearm)

@@ -1,0 +1,865 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                              debug/FlyMob_platform.os (IwDebugTraceIsChannelOn)
+/Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                              debug/FlyMob_platform.os (s3eEdkThreadRunOnOS)
+/Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+                              (libplaceholderplaceholderplaceholderplaceholderplaceholder)
+/Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_aeabi_ldivmod.o)
+                              /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o) (__aeabi_ldivmod)
+/Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+                              /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+                              /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+/Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+                              /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o) (__aeabi_unwind_cpp_pr0)
+/Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+                              /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o) (restore_core_regs)
+/Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+                              /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+/Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+                              /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o) (__divdi3)
+/Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+                              /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o) (__udivdi3)
+/Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_lshrdi3.o)
+                              /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o) (__aeabi_llsr)
+/Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_ashldi3.o)
+                              /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o) (__aeabi_llsl)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .group         0x0000000000000000        0x8 debug/FlyMob_platform.os
+ .group         0x0000000000000000        0x8 debug/FlyMob_platform.os
+ .group         0x0000000000000000        0x8 debug/FlyMob_platform.os
+ .group         0x0000000000000000        0x8 debug/FlyMob_platform.os
+ .group         0x0000000000000000        0x8 debug/FlyMob_platform.os
+ .group         0x0000000000000000        0x8 debug/FlyMob_platform.os
+ .group         0x0000000000000000        0x8 debug/FlyMob_platform.os
+ .group         0x0000000000000000        0x8 debug/FlyMob_platform.os
+ .group         0x0000000000000000        0x8 debug/FlyMob_platform.os
+ .group         0x0000000000000000        0x8 debug/FlyMob_platform.os
+ .group         0x0000000000000000        0x8 debug/FlyMob_platform.os
+ .group         0x0000000000000000        0x8 debug/FlyMob_platform.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 debug/FlyMob_platform.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 debug/FlyMob.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 debug/FlyMob_register.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_aeabi_ldivmod.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_lshrdi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_ashldi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+LOAD debug/FlyMob_platform.os
+LOAD debug/FlyMob.os
+LOAD debug/FlyMob_register.os
+LOAD /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a
+LOAD /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libs3e_android.so
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/liblog.so
+LOAD /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a
+LOAD /Users/a.baskakov/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/libgnustl_static.a
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/libstdc++.so
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/libm.so
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/libc.so
+LOAD /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/libc.so
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/libdl.so
+LOAD /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a
+LOAD /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+                0x00000000000000f4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x00000000000000f4      0x298
+ *(.hash)
+ .hash          0x00000000000000f4      0x298 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x000000000000038c      0x610
+ *(.dynsym)
+ .dynsym        0x000000000000038c      0x610 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.dynstr         0x000000000000099c      0x666
+ *(.dynstr)
+ .dynstr        0x000000000000099c      0x666 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.gnu.version    0x0000000000001002        0x0
+ *(.gnu.version)
+ .gnu.version   0x0000000000001002        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.gnu.version_d  0x0000000000001004        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000001004        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.gnu.version_r  0x0000000000001004        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000001004        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.rel.dyn        0x0000000000001004       0xd8
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro .rel.data.rel.ro.* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x0000000000001004       0xc8 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.iplt)
+ .rel.iplt      0x00000000000010cc        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .rel.fini_array
+                0x00000000000010cc        0x8 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .rel.init_array
+                0x00000000000010d4        0x8 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.rela.dyn
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.iplt)
+
+.rel.plt        0x00000000000010dc       0xf8
+ *(.rel.plt)
+ .rel.plt       0x00000000000010dc       0xf8 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt            0x00000000000011d4      0x188
+ *(.plt)
+ .plt           0x00000000000011d4      0x188 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.iplt           0x000000000000135c        0x0
+ *(.iplt)
+ .iplt          0x000000000000135c        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+
+.text           0x000000000000135c     0x4998
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ .text.exit     0x000000000000135c       0x10 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x000000000000135c                __on_dlclose
+ *(.text.startup .text.startup.*)
+ .text.startup._GLOBAL__sub_I_IwDebug.cpp
+                0x000000000000136c       0x78 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000000013e4       0x34 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x00000000000013e4                __atexit_handler_wrapper
+                0x00000000000013f8                atexit
+ .text          0x0000000000001418      0xe98 debug/FlyMob_platform.os
+                0x0000000000001520                FlyMob_nativeCallbackInterstitial(_JNIEnv*, _jobject*, int)
+                0x0000000000001574                FlyMob_nativeCallbackRewardedVideo(_JNIEnv*, _jobject*, int)
+                0x00000000000015c8                FlyMobInit_platform()
+                0x0000000000001d38                FlyMobTerminate_platform()
+                0x0000000000001d80                s3eFlyMobInterstitialInitialize_platform(int)
+                0x0000000000001dd0                s3eFlyMobInterstitialLoad_platform()
+                0x0000000000001e18                s3eFlyMobInterstitialShow_platform()
+                0x0000000000001e60                s3eFlyMobInterstitialIsReady_platform()
+                0x0000000000001ec0                s3eFlyMobRewardedVideoInitialize_platform(int)
+                0x0000000000001f10                s3eFlyMobRewardedVideoLoad_platform()
+                0x0000000000001f58                s3eFlyMobRewardedVideoShow_platform()
+                0x0000000000001fa0                s3eFlyMobRewardedVideoIsReady_platform()
+                0x0000000000002000                s3eFlyMobSDKSetDebugMode_platform(bool)
+                0x000000000000204c                s3eFlyMobSDKIsDebugMode_platform()
+                0x00000000000020ac                s3eFlyMobSDKSetCoppa_platform(bool)
+                0x00000000000020f8                s3eFlyMobSDKIsCoppa_platform()
+                0x0000000000002158                s3eFlyMobSDKSetDnt_platform(bool)
+                0x00000000000021a4                s3eFlyMobSDKIsDnt_platform()
+                0x0000000000002204                s3eFlyMobSDKSetTesting_platform(bool)
+                0x0000000000002250                s3eFlyMobSDKIsTesting_platform()
+ .text._ZN7_JNIEnv9FindClassEPKc
+                0x00000000000022b0       0x3c debug/FlyMob_platform.os
+                0x00000000000022b0                _JNIEnv::FindClass(char const*)
+ .text._ZN7_JNIEnv17ExceptionOccurredEv
+                0x00000000000022ec       0x34 debug/FlyMob_platform.os
+                0x00000000000022ec                _JNIEnv::ExceptionOccurred()
+ .text._ZN7_JNIEnv17ExceptionDescribeEv
+                0x0000000000002320       0x28 debug/FlyMob_platform.os
+                0x0000000000002320                _JNIEnv::ExceptionDescribe()
+ .text._ZN7_JNIEnv14ExceptionClearEv
+                0x0000000000002348       0x28 debug/FlyMob_platform.os
+                0x0000000000002348                _JNIEnv::ExceptionClear()
+ .text._ZN7_JNIEnv12NewGlobalRefEP8_jobject
+                0x0000000000002370       0x3c debug/FlyMob_platform.os
+                0x0000000000002370                _JNIEnv::NewGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv15DeleteGlobalRefEP8_jobject
+                0x00000000000023ac       0x30 debug/FlyMob_platform.os
+                0x00000000000023ac                _JNIEnv::DeleteGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv14DeleteLocalRefEP8_jobject
+                0x00000000000023dc       0x30 debug/FlyMob_platform.os
+                0x00000000000023dc                _JNIEnv::DeleteLocalRef(_jobject*)
+ .text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x000000000000240c       0x58 debug/FlyMob_platform.os
+                0x000000000000240c                _JNIEnv::NewObject(_jclass*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv11GetMethodIDEP7_jclassPKcS3_
+                0x0000000000002464       0x4c debug/FlyMob_platform.os
+                0x0000000000002464                _JNIEnv::GetMethodID(_jclass*, char const*, char const*)
+ .text._ZN7_JNIEnv17CallBooleanMethodEP8_jobjectP10_jmethodIDz
+                0x00000000000024b0       0x5c debug/FlyMob_platform.os
+                0x00000000000024b0                _JNIEnv::CallBooleanMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv14CallVoidMethodEP8_jobjectP10_jmethodIDz
+                0x000000000000250c       0x4c debug/FlyMob_platform.os
+                0x000000000000250c                _JNIEnv::CallVoidMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JavaVM6GetEnvEPPvi
+                0x0000000000002558       0x44 debug/FlyMob_platform.os
+                0x0000000000002558                _JavaVM::GetEnv(void**, int)
+ .text          0x000000000000259c      0x1ac debug/FlyMob.os
+                0x000000000000259c                FlyMobInit()
+                0x00000000000025b4                FlyMobTerminate()
+                0x00000000000025c0                s3eFlyMobInterstitialInitialize
+                0x00000000000025dc                s3eFlyMobInterstitialLoad
+                0x00000000000025e8                s3eFlyMobInterstitialShow
+                0x00000000000025f4                s3eFlyMobInterstitialIsReady
+                0x000000000000260c                s3eFlyMobRewardedVideoInitialize
+                0x0000000000002628                s3eFlyMobRewardedVideoLoad
+                0x0000000000002634                s3eFlyMobRewardedVideoShow
+                0x0000000000002640                s3eFlyMobRewardedVideoIsReady
+                0x0000000000002658                s3eFlyMobSDKSetDebugMode
+                0x000000000000267c                s3eFlyMobSDKIsDebugMode
+                0x0000000000002694                s3eFlyMobSDKSetCoppa
+                0x00000000000026b8                s3eFlyMobSDKIsCoppa
+                0x00000000000026d0                s3eFlyMobSDKSetDnt
+                0x00000000000026f4                s3eFlyMobSDKIsDnt
+                0x000000000000270c                s3eFlyMobSDKSetTesting
+                0x0000000000002730                s3eFlyMobSDKIsTesting
+ .text          0x0000000000002748      0xb10 debug/FlyMob_register.os
+                0x00000000000030c8                FlyMobRegisterExt()
+                0x000000000000324c                RegisterExt
+ .text          0x0000000000003258        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwDebugClearConfigCache
+                0x0000000000003258       0x74 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000003258                IwDebugClearConfigCache
+ .text.IwDebugAssertIsChannelOn
+                0x00000000000032cc      0x228 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000032cc                IwDebugAssertIsChannelOn
+ .text.IwDebugAssertShow
+                0x00000000000034f4      0x2f8 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000034f4                IwDebugAssertShow
+ .text.IwDebugAssertSetSolution
+                0x00000000000037ec       0xb4 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000037ec                IwDebugAssertSetSolution
+ .text.IwDebugAssertSetMessage
+                0x00000000000038a0       0xf4 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000038a0                IwDebugAssertSetMessage
+ .text.IwAssertRegisterTextCallback
+                0x0000000000003994       0x20 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000003994                IwAssertRegisterTextCallback
+ .text.IwAssertRegisterCallback
+                0x00000000000039b4       0x20 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000039b4                IwAssertRegisterCallback
+ .text.IwDebugTraceDisable
+                0x00000000000039d4       0x10 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000039d4                IwDebugTraceDisable
+ .text.IwDebugTraceIsChannelOn
+                0x00000000000039e4      0x2f4 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00000000000039e4                IwDebugTraceIsChannelOn
+ .text.IwDebugTraceSetTraceChannel
+                0x0000000000003cd8       0x18 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000003cd8                IwDebugTraceSetTraceChannel
+ .text.IwDebugTraceChannelSwitch
+                0x0000000000003cf0      0x1fc /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000003cf0                IwDebugTraceChannelSwitch
+ .text.IwDebugTraceChannelOverrideReset
+                0x0000000000003eec       0x4c /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000003eec                IwDebugTraceChannelOverrideReset
+ .text.IwDebugTraceChannelOverride
+                0x0000000000003f38      0x1fc /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000003f38                IwDebugTraceChannelOverride
+ .text.IwDebugTraceLineVPrintf
+                0x0000000000004134       0xfc /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000004134                IwDebugTraceLineVPrintf
+ .text.IwDebugTraceLinePrintf
+                0x0000000000004230       0x30 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000004230                IwDebugTraceLinePrintf
+ .text.IwDebugErrorRegisterCallback
+                0x0000000000004260       0x1c /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000004260                IwDebugErrorRegisterCallback
+ .text.IwDebugErrorShow
+                0x000000000000427c      0x108 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x000000000000427c                IwDebugErrorShow
+ .text.IwDebugAssertSetUID
+                0x0000000000004384       0x14 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000004384                IwDebugAssertSetUID
+ .text          0x0000000000004398        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .text.s3eEdkErrorSetString
+                0x0000000000004398       0x30 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                0x0000000000004398                s3eEdkErrorSetString
+ .text.s3eEdkThreadRunOnOS
+                0x00000000000043c8       0x30 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                0x00000000000043c8                s3eEdkThreadRunOnOS
+ .text.s3eEdkThreadRunOnOSAsync
+                0x00000000000043f8       0x30 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                0x00000000000043f8                s3eEdkThreadRunOnOSAsync
+ .text          0x0000000000004428        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+ .text.libplaceholderplaceholderplaceholderplaceholderplaceholder
+                0x0000000000004428        0x4 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+                0x0000000000004428                libplaceholderplaceholderplaceholderplaceholderplaceholder
+ .text          0x000000000000442c       0x44 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_aeabi_ldivmod.o)
+                0x000000000000442c                __aeabi_ldivmod
+ .text          0x0000000000004470       0x10 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+                0x0000000000004470                __aeabi_ldiv0
+                0x0000000000004470                __aeabi_idiv0
+ .text          0x0000000000004480       0x78 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+                0x0000000000004480                __gnu_ldivmod_helper
+                0x00000000000044bc                __gnu_uldivmod_helper
+ .text          0x00000000000044f8      0xee8 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+                0x0000000000004924                _Unwind_GetCFA
+                0x000000000000492c                __gnu_Unwind_RaiseException
+                0x00000000000049d0                __gnu_Unwind_ForcedUnwind
+                0x00000000000049ec                __gnu_Unwind_Resume
+                0x0000000000004a60                __gnu_Unwind_Resume_or_Rethrow
+                0x0000000000004a80                _Unwind_Complete
+                0x0000000000004a84                _Unwind_DeleteException
+                0x0000000000004a9c                _Unwind_VRS_Get
+                0x0000000000004b20                _Unwind_VRS_Set
+                0x0000000000004ba8                __gnu_Unwind_Backtrace
+                0x0000000000005060                __aeabi_unwind_cpp_pr0
+                0x0000000000005068                __aeabi_unwind_cpp_pr1
+                0x0000000000005070                __aeabi_unwind_cpp_pr2
+                0x0000000000005078                _Unwind_VRS_Pop
+ .text          0x00000000000053e0      0x1a8 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+                0x00000000000053e0                __restore_core_regs
+                0x00000000000053e0                restore_core_regs
+                0x00000000000053f4                __gnu_Unwind_Restore_VFP
+                0x00000000000053fc                __gnu_Unwind_Save_VFP
+                0x0000000000005404                __gnu_Unwind_Restore_VFP_D
+                0x000000000000540c                __gnu_Unwind_Save_VFP_D
+                0x0000000000005414                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x000000000000541c                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x0000000000005424                __gnu_Unwind_Restore_WMMXD
+                0x0000000000005468                __gnu_Unwind_Save_WMMXD
+                0x00000000000054ac                __gnu_Unwind_Restore_WMMXC
+                0x00000000000054c0                __gnu_Unwind_Save_WMMXC
+                0x00000000000054d4                _Unwind_RaiseException
+                0x00000000000054d4                ___Unwind_RaiseException
+                0x00000000000054f8                ___Unwind_Resume
+                0x00000000000054f8                _Unwind_Resume
+                0x000000000000551c                ___Unwind_Resume_or_Rethrow
+                0x000000000000551c                _Unwind_Resume_or_Rethrow
+                0x0000000000005540                _Unwind_ForcedUnwind
+                0x0000000000005540                ___Unwind_ForcedUnwind
+                0x0000000000005564                _Unwind_Backtrace
+                0x0000000000005564                ___Unwind_Backtrace
+ .text          0x0000000000005588      0x490 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+                0x0000000000005614                __gnu_unwind_execute
+                0x000000000000599c                __gnu_unwind_frame
+                0x00000000000059dc                _Unwind_GetRegionStart
+                0x00000000000059ec                _Unwind_GetLanguageSpecificData
+                0x0000000000005a08                _Unwind_GetDataRelBase
+                0x0000000000005a10                _Unwind_GetTextRelBase
+ .text          0x0000000000005a18      0x194 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+                0x0000000000005a18                __divdi3
+ .text          0x0000000000005bac      0x110 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+                0x0000000000005bac                __udivdi3
+ .text          0x0000000000005cbc       0x1c /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_lshrdi3.o)
+                0x0000000000005cbc                __aeabi_llsr
+                0x0000000000005cbc                __lshrdi3
+ .text          0x0000000000005cd8       0x1c /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_ashldi3.o)
+                0x0000000000005cd8                __ashldi3
+                0x0000000000005cd8                __aeabi_llsl
+ .text          0x0000000000005cf4        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x0000000000005cf4        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x0000000000005cf4        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x0000000000005cf4        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x0000000000005cf4        0x0 linker stubs
+
+.fini
+ *(SORT(.fini))
+                0x0000000000005cf4                PROVIDE (__etext, .)
+                0x0000000000005cf4                PROVIDE (_etext, .)
+                0x0000000000005cf4                PROVIDE (etext, .)
+
+.rodata         0x0000000000005cf4      0x740
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000000000005cf4      0x220 debug/FlyMob_platform.os
+ .rodata        0x0000000000005f14      0x404 debug/FlyMob_register.os
+ .rodata.str1.4
+                0x0000000000006318      0x11c /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                                        0x120 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x0000000000006434       0x3c
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000000000006434        0xc /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .ARM.extab     0x0000000000006440        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+ .ARM.extab     0x0000000000006440        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .ARM.extab     0x0000000000006440       0x30 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .ARM.extab     0x0000000000006470        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .ARM.extab     0x0000000000006470        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+                0x0000000000006470                PROVIDE (__exidx_start, .)
+
+.ARM.exidx      0x0000000000006470      0x120
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000006470        0x8 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .ARM.exidx     0x0000000000006478       0x10 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+ .ARM.exidx     0x0000000000006488       0xa8 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+                                         0xd8 (size before relaxing)
+ .ARM.exidx     0x0000000000006530       0x48 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .ARM.exidx     0x0000000000006578        0x8 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x0000000000006580       0x10 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+                                          0x8 (size before relaxing)
+                0x0000000000006590                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr   0x0000000000006590        0x0
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x0000000000006590        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+                0x0000000000010000                . = ALIGN (0x10000)
+                0x0000000000010e0c                . = DATA_SEGMENT_ALIGN (0x10000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+                0x0000000000010e0c                . = ALIGN (0x4)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000010e0c        0x8
+ *crtbegin*.o(.init_array)
+ *(SORT(.init_array.*) SORT(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend*.o *crtend.o *crtbegin*.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000010e0c        0x4 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .init_array    0x0000000000010e10        0x4 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.fini_array     0x0000000000010e14        0x8
+ *crtbegin*.o(.fini_array)
+ .fini_array    0x0000000000010e14        0x4 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(SORT(.fini_array.*) SORT(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend*.o *crtend.o *crtbegin*.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000010e18        0x4 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin*.o(.ctors)
+ *(EXCLUDE_FILE(*crtend*.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin*.o(.dtors)
+ *(EXCLUDE_FILE(*crtend*.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x0000000000010e1c       0xf8
+ *(.dynamic)
+ .dynamic       0x0000000000010e1c       0xf8 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0000000000010e1c                _DYNAMIC
+
+.got            0x0000000000010f14       0xec
+ *(.got.plt)
+ .got.plt       0x0000000000010f14       0x88 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0000000000010f14                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x0000000000010f9c        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(.got)
+ .got           0x0000000000010f9c       0x64 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(.igot)
+                0x0000000000011000                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.data           0x0000000000011000        0x4
+                0x0000000000011000                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000011000        0x4 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x0000000000011000                __dso_handle
+ .data          0x0000000000011004        0x0 debug/FlyMob_platform.os
+ .data          0x0000000000011004        0x0 debug/FlyMob.os
+ .data          0x0000000000011004        0x0 debug/FlyMob_register.os
+ .data          0x0000000000011004        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .data          0x0000000000011004        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .data          0x0000000000011004        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+ .data          0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .data          0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+ .data          0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .data          0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .data          0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .data          0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .data          0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+ .data          0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_lshrdi3.o)
+ .data          0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_ashldi3.o)
+ .data          0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.data1
+ *(.data1)
+                0x0000000000011004                _edata = .
+                0x0000000000011004                PROVIDE (edata, .)
+                0x0000000000011004                . = .
+                0x0000000000011004                __bss_start = .
+                0x0000000000011004                __bss_start__ = .
+
+.bss            0x0000000000011004     0x296c
+ *(.dynbss)
+ .dynbss        0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000011004        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .bss           0x0000000000011004       0x44 debug/FlyMob_platform.os
+ .bss           0x0000000000011048        0x0 debug/FlyMob.os
+ .bss           0x0000000000011048        0x0 debug/FlyMob_register.os
+ .bss           0x0000000000011048     0x2928 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000000000011048                g_DebugGlobals
+ .bss           0x0000000000013970        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .bss           0x0000000000013970        0x0 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+ .bss           0x0000000000013970        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000000013970        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .bss           0x0000000000013970        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+ .bss           0x0000000000013970        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .bss           0x0000000000013970        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .bss           0x0000000000013970        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .bss           0x0000000000013970        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .bss           0x0000000000013970        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+ .bss           0x0000000000013970        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_lshrdi3.o)
+ .bss           0x0000000000013970        0x0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_ashldi3.o)
+ .bss           0x0000000000013970        0x0 /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+ *(COMMON)
+                0x0000000000013970                . = ALIGN (0x4)
+                0x0000000000013970                _bss_end__ = .
+                0x0000000000013970                __bss_end__ = .
+                0x0000000000013970                . = ALIGN (0x4)
+                0x0000000000013970                . = SEGMENT_START ("ldata-segment", .)
+                0x0000000000013970                . = ALIGN (0x4)
+                0x0000000000013970                __end__ = .
+                0x0000000000013970                _end = .
+                0x0000000000013970                _bss_end__ = .
+                0x0000000000013970                __bss_end__ = .
+                0x0000000000013970                __end__ = .
+                0x0000000000013970                PROVIDE (end, .)
+                0x0000000000013970                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x34
+ *(.comment)
+ .comment       0x0000000000000000        0xf /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                                         0x10 (size before relaxing)
+ .comment       0x000000000000000f       0x25 debug/FlyMob_platform.os
+                                         0x26 (size before relaxing)
+ .comment       0x0000000000000034       0x26 debug/FlyMob.os
+ .comment       0x0000000000000034       0x26 debug/FlyMob_register.os
+ .comment       0x0000000000000034       0x26 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .comment       0x0000000000000034       0x26 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .comment       0x0000000000000034       0x26 /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+ .comment       0x0000000000000034       0x26 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+ .comment       0x0000000000000034       0x26 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .comment       0x0000000000000034       0x26 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .comment       0x0000000000000034       0x26 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .comment       0x0000000000000034       0x26 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+
+.ARM.attributes
+                0x0000000000000000       0x2d
+ .ARM.attributes
+                0x0000000000000000       0x2b /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .ARM.attributes
+                0x000000000000002b       0x2f debug/FlyMob_platform.os
+ .ARM.attributes
+                0x000000000000005a       0x2f debug/FlyMob.os
+ .ARM.attributes
+                0x0000000000000089       0x2f debug/FlyMob_register.os
+ .ARM.attributes
+                0x00000000000000b8       0x2f /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .ARM.attributes
+                0x00000000000000e7       0x2f /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .ARM.attributes
+                0x0000000000000116       0x2f /Applications/Marmalade.app/Contents/s3e/edk/lib/android/libedk.a(android_edk_marker.o)
+ .ARM.attributes
+                0x0000000000000145       0x1f /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000000000000164       0x1f /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .ARM.attributes
+                0x0000000000000183       0x2b /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x00000000000001ae       0x2b /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .ARM.attributes
+                0x00000000000001d9       0x1f /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .ARM.attributes
+                0x00000000000001f8       0x2b /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x0000000000000223       0x2b /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x000000000000024e       0x2b /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x0000000000000279       0x1f /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_lshrdi3.o)
+ .ARM.attributes
+                0x0000000000000298       0x1f /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_ashldi3.o)
+ .ARM.attributes
+                0x00000000000002b7       0x1d /Users/a.baskakov/android-ndk-r10e/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x200
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x80 debug/FlyMob_platform.os
+ .debug_aranges
+                0x0000000000000080       0x20 debug/FlyMob.os
+ .debug_aranges
+                0x00000000000000a0       0x20 debug/FlyMob_register.os
+ .debug_aranges
+                0x00000000000000c0       0x20 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_aeabi_ldivmod.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .debug_aranges
+                0x0000000000000100       0x20 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+ .debug_aranges
+                0x0000000000000120       0x20 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_aranges
+                0x0000000000000140       0x20 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .debug_aranges
+                0x0000000000000160       0x20 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .debug_aranges
+                0x0000000000000180       0x20 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_lshrdi3.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_ashldi3.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x9171
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x5e69 debug/FlyMob_platform.os
+ .debug_info    0x0000000000005e69      0x262 debug/FlyMob.os
+ .debug_info    0x00000000000060cb      0x2b7 debug/FlyMob_register.os
+ .debug_info    0x0000000000006382       0xbd /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_aeabi_ldivmod.o)
+ .debug_info    0x000000000000643f       0xc1 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .debug_info    0x0000000000006500      0x160 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+ .debug_info    0x0000000000006660     0x1bbc /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_info    0x000000000000821c       0xc1 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .debug_info    0x00000000000082dd      0x8af /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .debug_info    0x0000000000008b8c      0x287 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .debug_info    0x0000000000008e13      0x1dc /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000008fef       0xc1 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_lshrdi3.o)
+ .debug_info    0x00000000000090b0       0xc1 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_ashldi3.o)
+
+.debug_abbrev   0x0000000000000000      0xe70
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x2bd debug/FlyMob_platform.os
+ .debug_abbrev  0x00000000000002bd       0xdb debug/FlyMob.os
+ .debug_abbrev  0x0000000000000398      0x10b debug/FlyMob_register.os
+ .debug_abbrev  0x00000000000004a3       0x14 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_aeabi_ldivmod.o)
+ .debug_abbrev  0x00000000000004b7       0x14 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .debug_abbrev  0x00000000000004cb       0xb5 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+ .debug_abbrev  0x0000000000000580      0x413 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_abbrev  0x0000000000000993       0x14 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .debug_abbrev  0x00000000000009a7      0x275 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .debug_abbrev  0x0000000000000c1c      0x144 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .debug_abbrev  0x0000000000000d60       0xe8 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x0000000000000e48       0x14 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_lshrdi3.o)
+ .debug_abbrev  0x0000000000000e5c       0x14 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_ashldi3.o)
+
+.debug_line     0x0000000000000000     0x129a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x3c0 debug/FlyMob_platform.os
+ .debug_line    0x00000000000003c0       0xe7 debug/FlyMob.os
+ .debug_line    0x00000000000004a7      0x22a debug/FlyMob_register.os
+ .debug_line    0x00000000000006d1       0x7c /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_aeabi_ldivmod.o)
+ .debug_line    0x000000000000074d       0x7b /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_dvmd_lnx.o)
+ .debug_line    0x00000000000007c8       0x7c /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+ .debug_line    0x0000000000000844      0x516 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_line    0x0000000000000d5a       0xc5 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(libunwind.o)
+ .debug_line    0x0000000000000e1f      0x194 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .debug_line    0x0000000000000fb3       0xf9 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .debug_line    0x00000000000010ac       0xf2 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+ .debug_line    0x000000000000119e       0x7e /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_lshrdi3.o)
+ .debug_line    0x000000000000121c       0x7e /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_ashldi3.o)
+
+.debug_frame    0x0000000000000000      0xc68
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x418 debug/FlyMob_platform.os
+ .debug_frame   0x0000000000000418      0x1d8 debug/FlyMob.os
+ .debug_frame   0x00000000000005f0      0x1f8 debug/FlyMob_register.os
+ .debug_frame   0x00000000000007e8       0x28 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x0000000000000810       0x54 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+ .debug_frame   0x0000000000000864      0x2ac /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_frame   0x0000000000000b10       0xe8 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .debug_frame   0x0000000000000bf8       0x38 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .debug_frame   0x0000000000000c30       0x38 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+
+.debug_str      0x0000000000000000     0x6341
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x51e9 debug/FlyMob_platform.os
+                                       0x5373 (size before relaxing)
+ .debug_str     0x00000000000051e9       0x8a debug/FlyMob.os
+                                        0x423 (size before relaxing)
+ .debug_str     0x0000000000005273      0x270 debug/FlyMob_register.os
+                                        0x4cf (size before relaxing)
+ .debug_str     0x00000000000054e3      0x171 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+                                        0x196 (size before relaxing)
+ .debug_str     0x0000000000005654      0xb71 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+                                        0xc8b (size before relaxing)
+ .debug_str     0x00000000000061c5       0xf1 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+                                        0x592 (size before relaxing)
+ .debug_str     0x00000000000062b6       0x8b /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+                                        0x293 (size before relaxing)
+ .debug_str     0x0000000000006341      0x270 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+
+.debug_loc      0x0000000000000000     0x206f
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0xa0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(bpabi.o)
+ .debug_loc     0x00000000000000a0     0x15b9 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_loc     0x0000000000001659      0x52f /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .debug_loc     0x0000000000001b88      0x294 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .debug_loc     0x0000000000001e1c      0x253 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x188
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x70 debug/FlyMob_platform.os
+ .debug_ranges  0x0000000000000070       0xb0 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(unwind-arm.o)
+ .debug_ranges  0x0000000000000120       0x30 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(pr-support.o)
+ .debug_ranges  0x0000000000000150       0x18 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_divdi3.o)
+ .debug_ranges  0x0000000000000168       0x20 /Users/a.baskakov/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.9/libgcc.a(_udivdi3.o)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+ *(.mdebug.*)
+OUTPUT(/Users/a.baskakov/Documents/Marmalade-Extension/lib/android/libFlyMob_d.so elf32-littlearm)

@@ -10,5 +10,6 @@ files
 
 librarypath "$MARMALADE_ROOT/s3e/deploy/plugins/android/android.jar"
 librarypath "$MARMALADE_ROOT/s3e/loader/android/s3e_release.jar"
+librarypath "android/FlyMobSdk-1.7.0.jar"
 
 option output-name=lib/android/FlyMob.jar
